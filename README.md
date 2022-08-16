@@ -28,7 +28,7 @@ FOR PIGEONPOSSE.COM
 -->
 # PIGEONPOSSE™ Eslint Setup
 
-[![Web](https://img.shields.io/badge/Web-blue)](https://pigeonposse.com/) [![About us](https://img.shields.io/badge/Abot--us-lightgrey)](https://pigeonposse.com/?popup=about) [![Donate ko-fi](https://img.shields.io/badge/Donate-Ko--fi-pink)](https://pigeonposse.com/?popup=donate)
+[![npm](https://img.shields.io/npm/v/@pigeon-posse/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@pigeon-posse/htmlhint-config) [![Web](https://img.shields.io/badge/Web-grey)](https://pigeonposse.com/) [![About us](https://img.shields.io/badge/Abot--us-grey)](https://pigeonposse.com/?popup=about) [![Donate ko-fi](https://img.shields.io/badge/Donate-Ko--fi-pink)](https://pigeonposse.com/?popup=donate)
 
 PIGEONPOSSE™ Eslint configuration is intended to have as much code readability as possible. It is characterized by having the JS code very space and aligned. If this setup suits you, feel free to use it if you want and forget about setting up Eslint.
 
