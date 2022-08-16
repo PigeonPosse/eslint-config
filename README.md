@@ -39,13 +39,13 @@ PIGEONPOSSE™ Eslint configuration is intended to have as much code readability
 Global installation:
 
 ```bash
-npm install -g @pigeonposse/eslint-config
+npm install -g @pigeon-posse/eslint-config
 ```
 
 Local installation:
 
 ```bash
-npm install @pigeonposse/eslint-config
+npm install @pigeon-posse/eslint-config
 ```
 
 ## ⚙️ Usage
@@ -54,7 +54,7 @@ npm install @pigeonposse/eslint-config
 
 ```json
 {
-  "extends": "@pigeonposse"
+  "extends": "@pigeon-posse"
 }
 ```
 
@@ -74,9 +74,9 @@ The sofware is licensed with GPL-3 (GNU GENERAL PUBLIC LICENSE Version 3)
 
 PigeonPosse is a creative web development collective focused on creating innovative tools and plugins that helpboth the creators and their users to enjoy a comfortable experience. Our projects cover various sectors of both the multimedia world and programming (construction of web spaces or apps), providing an elegant and effective solution both in code and visually
 
-### Contributors
+### Collaborators
 
 |                                                                                    | Name        | Role         | GitHub                                         |
 | ---------------------------------------------------------------------------------- | ----------- | ------------ | ---------------------------------------------- |
-| <img src="https://github.com/AngelEspejo.png?size=72" style="border-radius:100%"/> | AngelEspejo | Creator      | [@AngelEspejo](https://github.com/AngelEspejo) |
+| <img src="https://github.com/AngelEspejo.png?size=72" style="border-radius:100%"/> | AngelEspejo | Author       | [@AngelEspejo](https://github.com/AngelEspejo) |
 | <img src="https://github.com/PigeonPosse.png?size=72" style="border-radius:100%"/> | PigeonPosse | Collective	  | [@PigeonPosse](https://github.com/PigeonPosse) |
