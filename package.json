@@ -1,6 +1,6 @@
 {
   "name": "@pigeon-posse/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "PigeonPosse Eslint configuration",
   "main": "index.js",
   "scripts": {
