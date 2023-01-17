@@ -66,7 +66,7 @@ Help us to develop more interesting things.
 
 ## 📜 License
 
-The sofware is licensed with GPL-3 (GNU GENERAL PUBLIC LICENSE Version 3)
+The software is licensed with GPL-3 (GNU GENERAL PUBLIC LICENSE Version 3)
 
 [Read more](https://github.com/PigeonPosse/linter/LICENSE)
 
