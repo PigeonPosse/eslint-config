@@ -1,0 +1,15 @@
+{
+  "web": [
+    {
+      "id": "eslint-config",
+      "name": "Eslint onfiguration",
+      "type": "lint-config",
+      "version": "{{package.version}}",
+      "description": "{{package.description}}",
+      "homepage": "{{package.homepage}}",
+      "repo": "https://github.com/pigeonposse/eslint-config",
+      "logo": "https://raw.githubusercontent.com/pigeonposse/eslint-config/main/docs/logo.png",
+      "banner": "https://raw.githubusercontent.com/pigeonposse/eslint-config/main/docs/banner.png"
+    }
+  ]
+}
