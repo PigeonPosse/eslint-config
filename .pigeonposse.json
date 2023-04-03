@@ -2,7 +2,7 @@
   "web": [
     {
       "id": "eslint-config",
-      "name": "Eslint onfiguration",
+      "name": "Eslint configuration",
       "type": "lint-config",
       "version": "{{package.version}}",
       "description": "{{package.description}}",
